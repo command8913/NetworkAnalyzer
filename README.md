@@ -1,4 +1,7 @@
 Список утилит, написанных мною для облегчения проведения проверок:
+
 - NetworkAnalyzer (программа для анализа сетевых подключений)
-- Handles (программа на основе handle с сайта Microsoft, лишь переработанная мною для вывода загруженных модулей mods/addons)
-- DoomsDay Fuck (программа для поиска Doomsday client, основные методы обнаружения: jmap и strings)
+- Handles (программа на основе handle с сайта Microsoft, переработанная мною для вывода загруженных модулей mods/addons)
+- DoomsDay Fuck (программа для поиска Doomsday client; основные методы обнаружения: jmap и strings)
+- clearusn.ps1 (скрипт для доказательства очистки UsnJournal, а также очистки тома EventLog)
+- servicescheck.ps1 (скрипт для проверки состояния служб)
